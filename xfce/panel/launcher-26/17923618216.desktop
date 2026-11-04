@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Obsidian
+Comment=Knowledge base and Markdown notes
+Exec=/home/void/.local/opt/obsidian/Obsidian.AppImage --no-sandbox
+Terminal=false
+Type=Application
+Categories=Office;TextEditor;
+X-XFCE-Source=file:///home/void/.local/share/applications/obsidian.desktop
+Icon=/usr/share/icons/plank/insight.png
+Path=
+StartupNotify=false
